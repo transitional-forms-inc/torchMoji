@@ -9,8 +9,8 @@ setup(
     install_requires=[
         'emoji==0.4.5',
         'numpy',
-        'scipy==0.19.1',
-        'scikit-learn==0.19.0',
+        'scipy',
+        'scikit-learn',
         'text-unidecode==1.0',
     ],
 )
